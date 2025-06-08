@@ -26,8 +26,8 @@
         "url": "https://github.com/Microsoft/vscode-python/issues"
     },
     "devDependencies": {
-        "typescript": "~5.2",
-        "@types/vscode": "^1.93.0",
+        "typescript": "~5.8",
+        "@types/vscode": "^1.100.0",
         "source-map": "^0.8.0-beta.0"
     },
     "scripts": {
